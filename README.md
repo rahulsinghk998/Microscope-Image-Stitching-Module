@@ -5,7 +5,7 @@ The package contains image stitching module for a microscope. The microscope pro
 
 ##Results
 ###Stitched Image
-[<img src="./Results/Result.jpg">]
+<img src="./Results/Result.jpg">
 
 ###Raw Dataset@64 Images
-[<img src="./Results/Dataset.jpg">]
+<img src="./Results/Dataset.jpg">
